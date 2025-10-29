@@ -33,34 +33,35 @@ The analysis in this project is based on the MEGACORP dataset, which comprises 2
 - Megacorp’s profitability has shown a sustained decline since peaking at approximately $12.5 million in 2008, with profits turning negative in 2017 and again in 2020.
 - The waterfall chart confirms diminishing profit levels, highlighting a persistent downward trend in total profitability.
 - The time series forecasting model predicts further declines, with profits expected to remain negative in upcoming months, reflecting potential instability in current operations and business strategy.
-
+<img width="885" height="387" alt="image" src="https://github.com/user-attachments/assets/31bc5357-bbac-4481-9dc8-7a72ead35b31" /> <img width="669" height="402" alt="image" src="https://github.com/user-attachments/assets/15e17302-7a41-44e5-9b44-9365b03f063f" />
 
 #### Facility and Regional Performance
 
 - Facility analysis revealed notable regional disparities, with San Francisco achieving the highest total profits, while New Orleans recorded the lowest.
 - Locations such as Mobile, despite lower total profits, reported higher unit yield rates than San Francisco, indicating inefficiencies in operational performance across facilities.
 - A negative correlation between unit age and yield rate suggests that older units are less productive, pointing to maintenance and performance challenges within certain facilities.
-
+<img width="940" height="292" alt="image" src="https://github.com/user-attachments/assets/81807596-e293-4034-b5f9-e632a2aa7835" /> <img width="939" height="311" alt="image" src="https://github.com/user-attachments/assets/60bffd61-9a30-48da-b9dc-8ee1348f91d6" />
 
 #### Product Line and Brand Profitability
 
 - The ‘Game’ product line emerged as the most profitable, demonstrating a strong positive relationship between revenue and profit.
 - The novelty product brand, though selling 10 times fewer units than toys, generated higher total profits, indicating greater profitability per unit.
 - High-profit products generally align with higher sales frequency, but some items such as pens achieved strong profit margins despite lower sales volumes, suggesting niche opportunities for growth.
-
+<img width="925" height="416" alt="image" src="https://github.com/user-attachments/assets/6d7fc831-f8a1-488e-a372-173c19f67023" />
 
 #### Cost Structure and Efficiency Optimisation
 
 - Analysis of gross profit margin (GPM) and operating profit margin (OPM) ratios revealed that several products with low revenue still generated high GPM, indicating cost efficiency opportunities.
 - Some products with high GPM exhibited negative OPM, meaning that operating expenses exceeded revenue, highlighting the need for cost control and pricing review.
 - The findings point to the importance of reallocating resources toward high-margin, low-volume products while improving cost structures for frequently sold but less profitable items.
-
+<img width="939" height="303" alt="image" src="https://github.com/user-attachments/assets/4eb3fea1-35e7-4cb1-84ae-e48febd81081" />
 
 #### Forecasting and Profit Prediction Models
 
 - The initial time series model displayed a wide confidence interval, indicating high uncertainty, but the revised model including underlying factors showed narrower confidence bounds and improved accuracy.
 - Regression analysis produced an R-squared value of 0.0683, suggesting the model explains only 6.83 percent of profit variability, indicating the presence of other unmeasured influences on profitability.
 - Despite a high F-statistic, the model’s limited predictive power emphasises that external and operational factors likely play a greater role in Megacorp’s profitability trends.
+<img width="940" height="538" alt="image" src="https://github.com/user-attachments/assets/acb4d991-ad2a-490c-84fc-9e16b8bcebc5" />
 
 ## Recommendations
 
